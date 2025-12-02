@@ -1,0 +1,16 @@
+[StartTime]
+main-Static 1.MFC=9s
+[SolverState]
+main-Static 1.MFC=1
+[MainFrame]
+main-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEPBAAAAAHBBAAAAAMFDAAAAADEDAAAAA
+[ShowMin]
+main-Static 1.MFC=No
+[SolverType]
+main-Static 1.MFC=Linear Analysis
+[StudyType]
+main-Static 1.MFC=0
+[StudyName]
+main-Static 1.MFC=Static 1
+[Solver]
+main-Static 1.MFC=Sparse

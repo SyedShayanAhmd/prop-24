@@ -1,0 +1,16 @@
+[StartTime]
+hollow shaft-Static 2.MFC=3s
+[SolverState]
+hollow shaft-Static 2.MFC=2
+[MainFrame]
+hollow shaft-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEPBAAAAAHBBAAAAAMFDAAAAAKOBAAAAA
+[ShowMin]
+hollow shaft-Static 2.MFC=No
+[SolverType]
+hollow shaft-Static 2.MFC=Linear Analysis
+[StudyType]
+hollow shaft-Static 2.MFC=0
+[StudyName]
+hollow shaft-Static 2.MFC=Static 2
+[Solver]
+hollow shaft-Static 2.MFC=Sparse
